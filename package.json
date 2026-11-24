@@ -1,0 +1,10 @@
+{
+  "name": "u-kreutzx-the-one-line-exit-1dc652d1-makefun",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "make.fun entry for The One-Line Exit — one funny single-line resignation letter",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
